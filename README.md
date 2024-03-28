@@ -17,3 +17,11 @@ Revamped the client's website to make it super smooth and user-friendly. It has 
 
 ## Lessons Learned:
 I learned a lot about delivering what the customer wants. I would taken more time to go through and make the site in sections. I would make sure each section is fully responsive and working before moving on. That way I can reuse sections like legos. 
+
+
+## Other Projects / Websites
+
+**Steve Rep Dev Website:** https://steverepdev.com/
+
+**Trim & Shave Barber:** https://github.com/StewedDownSteve/LocalBarberShop
+
